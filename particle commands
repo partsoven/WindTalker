@@ -1,0 +1,6 @@
+"https://api.particle.io"
+
+
+particle subscribe --all JL3X
+
+particle subscribe --all JL3X | tee -a Downloads/particledata.txt
